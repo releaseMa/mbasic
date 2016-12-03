@@ -3,6 +3,7 @@
 #define Stack_size 20
 #define Inputbuff_size 512
 #define Outputbuff_size 64
+#define Max_linenum 20
 const char func[funcnum-1][Keyword_maxsize-1]=
 {
 "LOOP","IF","THEN","AREAD","DREAD","AWRITE","DWRITE"

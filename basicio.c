@@ -15,11 +15,11 @@ bool output_isEmpty(void)
 }
 bool input_isEmpty(void)//analzy whether or not the inputbuff is empty from the position(readonly)
 {
-	if(outputbuff[position+1]=='\0')
+	if(inputbuff[position+1]=='\0')
 	{
-		if(outputbuff[position+2]=='\0')
+		if(inputbuff[position+2]=='\0')
 		{
-			if(outputbuff[position+3]=='\0')
+			if(inputbuff[position+3]=='\0')
 			{return 1;}
 		}
 	}

@@ -9,4 +9,4 @@ updeatd!
   -an extendable function searching logic is coming soon.
   
 It's a milestone for me that the Analziation Part is,done,and the next part would be Execution,I guess a arduino daemon will be published on Mid-Febaurary.
-Again,Thanks for Jian's patience.
+Again,Thanks for Jian's patience,so that I still have the passion to write this shit. 
